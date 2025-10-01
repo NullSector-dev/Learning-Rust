@@ -13,6 +13,10 @@ A simple command-line calculator built to understand Rust's basic syntax and ope
 
 An interactive number guessing game that helped me grasp Rust's control flow and user input handling.
 
+### 3. To-do CLI APP
+
+A command line to-do list with persistence using a json file. It helped me to learn how to handle crates and branch out processes.
+
 ## Tech Used
 
 ### 1. Rust
